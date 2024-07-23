@@ -1,0 +1,2 @@
+# typescript_init_remove_clear_set
+Typescript
